@@ -1,0 +1,12 @@
+2018-08-06 14:30:08,037 — test_logger — INFO — setup_logger:35 — Logger setup complete
+2018-08-06 14:30:08,037 — test logger — INFO — <module>:40 — main method running
+2018-08-06 14:30:08,037 — test_logger — INFO — handle_input:12 — getting user input
+2018-08-06 14:30:09,450 — test_logger — DEBUG — handle_output:15 — User entered hello
+2018-08-06 14:30:09,450 — test_logger — INFO — handle_input:12 — getting user input
+2018-08-06 14:30:13,081 — test_logger — DEBUG — handle_output:12 — User entered exit command, exiting.
+2018-08-06 14:31:14,202 — test_logger — INFO — setup_logger:35 — Logger setup complete
+2018-08-06 14:31:14,202 — test_logger — INFO — <module>:40 — main method running
+2018-08-06 14:31:14,202 — test_logger — INFO — handle_input:12 — getting user input
+2018-08-06 14:31:15,705 — test_logger — DEBUG — handle_output:15 — User entered hello
+2018-08-06 14:31:15,706 — test_logger — INFO — handle_input:12 — getting user input
+2018-08-06 14:31:18,218 — test_logger — DEBUG — handle_output:12 — User entered exit command, exiting.
